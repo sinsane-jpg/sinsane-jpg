@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I’m Kuhuk Gaur
 
-<!--
-**sinsane-jpg/sinsane-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a technical writer focused on making software easier to understand through API documentation, user guides, and knowledge bases.
 
-Here are some ideas to get you started:
+## Explore my work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [FlowSync API documentation](https://github.com/sinsane-jpg/flowsync-api-documentation) — An OpenAPI specification covering workflows and executions.
+- [Technical writing portfolio](https://github.com/sinsane-jpg/technical-writing-portfolio) — An introduction to my documentation work and links to writing samples.
+
+## What I’m learning
+
+I’m strengthening my Python fundamentals and exploring how to test API examples and improve documentation workflows.
+
+## Get in touch
+
+[Connect with me on LinkedIn](https://www.linkedin.com/in/kuhuk-gaur-422434355/)
